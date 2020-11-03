@@ -3,11 +3,11 @@
 ## Background
 This repository was made to create a table dynamically based upon a [dataset provided](StarterCode/static/js/data.js). It allows users to filter the table data for specific values, using JavaScript, HTML, and CSS, and D3.js on our web pages.  Two different web pages were created with the below requirements. 
 
-### Level 1: Automatic Table and Date Search (Required)
+### Level 1: Automatic Table and Date Search 
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-### Level 2: Multiple Search Categories (Optional)
+### Level 2: Multiple Search Categories 
 
 * Complete all of Level 1 criteria.
 
